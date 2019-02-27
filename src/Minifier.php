@@ -6,9 +6,9 @@ class Minifier
 {
     public $htmlFilters = [
         // Remove HTML comments except IE conditions
-        '/<!--(?!\s*(?:\[if [^\]]+]|<!|>))(?:(?!-->).)*-->/s' => '',
+        //'/<!--(?!\s*(?:\[if [^\]]+]|<!|>))(?:(?!-->).)*-->/s' => '',
         // Remove comments in the form /* */
-        '/(?<!\S)\/\/\s*[^\r\n]*/' => '',
+        //'/(?<!\S)\/\/\s*[^\r\n]*/' => '',
         // Shorten multiple white spaces
         '/\s{2,}/' => ' ',
         // Remove whitespaces between HTML tags

@@ -1,9 +1,9 @@
 <?php
 
-namespace DvaPacana\Minify\Middleware;
+namespace DvaPacana\Middleware;
 
 use Closure;
-use DvaPacana\Minify\Minifier;
+use DvaPacana\Minifier;
 use Symfony\Component\HttpFoundation\StreamedResponse;
 
 class MinifyResponse

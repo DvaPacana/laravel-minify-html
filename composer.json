@@ -1,5 +1,5 @@
 {
-    "name": "nckg/laravel-minify-html",
+    "name": "DvaPacana/laravel-minify-html",
     "description": "Minify your responses in Laravel 5.x",
     "license": "MIT",
     "authors": [

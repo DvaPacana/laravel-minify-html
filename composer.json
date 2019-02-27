@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Nckg\\Minify\\": "src"
+            "DvaPacana\\Minify\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Nckg\\Minify\\Test\\": "tests"
+            "DvaPacana\\Minify\\Test\\": "tests"
         }
     },
     "scripts": {

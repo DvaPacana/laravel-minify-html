@@ -1,6 +1,6 @@
 <?php
 
-namespace Nckg\Minify;
+namespace DvaPacana\Minify;
 
 class Minifier
 {
